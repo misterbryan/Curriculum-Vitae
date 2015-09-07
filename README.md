@@ -1,5 +1,4 @@
 # Curriculum-Vitae
-Curriculum Vitae de Briand IDOSSOU
 
 Le résultat doit être semblable à l'image suivante : 
 
